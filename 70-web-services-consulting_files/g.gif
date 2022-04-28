@@ -1,0 +1,449 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+
+
+
+<!-- HEADER -->
+<html>
+	<head>
+		<title>Internet Archive Wayback Machine</title>
+		<script type="text/javascript" src="/static/js/analytics.js"></script>
+		<script type="text/javascript">archive_analytics.values.server_name="wwwb-app6.us.archive.org";archive_analytics.values.server_ms=8;</script>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<link rel="stylesheet" type="text/css" href="/static/css/styles.css" />
+		<base target="_top" />
+	</head>
+	<body>
+
+  <!DOCTYPE html>
+<html lang="en">
+<!-- __ _ _ _ __| |_ (_)__ _____
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+  <head>
+    <title>Internet Archive Wayback Machine</title>
+
+          <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <script>window.archive_setup=[]</script>
+        <script src="//archive.org/includes/jquery-1.10.2.min.js?v1.10.2" type="text/javascript"></script>
+    <script src="//archive.org/includes/analytics.js?v=cb5aff4" type="text/javascript"></script>
+    <script src="//archive.org/includes/bootstrap.min.js?v3.0.0" type="text/javascript"></script>
+    <script src="https://archive.org/includes/node_modules/react/dist/react.js?v15.1.0" type="text/javascript"></script>
+    <script src="https://archive.org/includes/node_modules/react-dom/dist/react-dom.js?v15.1.0" type="text/javascript"></script>
+    <script src="https://archive.org/includes/archive.min.js?v=cb5aff4" type="text/javascript"></script>
+    <link href="//archive.org/includes/archive.min.css?v=cb5aff4" rel="stylesheet" type="text/css"/>
+    <link rel="SHORTCUT ICON" href="https://archive.org/images/glogo.jpg"/>
+      </head>
+  <body class="navia ">
+    <a href="">Skip to main content</a>
+
+    <!-- Wraps all page content -->
+    <div id="wrap">
+
+
+
+
+
+
+
+        <div id="navwrap1">
+          <div id="navwrap2">
+
+            <div id="nav-tophat" class="collapse">
+
+                  <div class="row toprow web" style="max-width:1000px;margin:auto;">
+                    <div class="col-xs-12">
+                      <div class="wayback-txt">
+                        Search the history of over 284 billion                        <a style="display:inline" href="https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/">web pages</a> on the Internet.
+                      </div>
+                      <div class="roundbox7 wayback-main">
+                        <div class="row">
+                          <div class="col-sm-6" style="padding-left:0; padding-right:0;">
+                            <a style="padding-bottom:0" href="https://archive.org/web/"><img src="https://archive.org/images/WaybackLogoSmall.png" alt="Wayback Machine"/></a>
+                          </div>
+                          <div class="col-sm-6" style="padding-top:13px;">
+                            <form style="position:relative;">
+                              <span class="iconochive-search"  aria-hidden="true"></span><span class="sr-only">search</span>                              <label for="nav-wb-url" class="sr-only">Search the Wayback Machine</label>
+                              <input id="nav-wb-url" class="form-control input-sm roundbox20" type="text" placeholder="enter URL or keywords" name="url" onclick="$(this).css('padding-left','').parent().find('.iconochive-search').hide()" autocomplete="off"/>
+                            </form>
+                          </div>
+                        </div><!--/.row-->
+                      </div><!--/.wayback-main-->
+                    </div>
+                  </div><!--./row-->
+
+
+                  <div class="row toprow fivecolumns texts">
+
+                                          <div class="col-sm-2 col-xs-7 col-sm-push-4">
+
+                          <div class="linx">
+                            <h5>Featured</h5>
+                            <a href="">texts</span> All Texts</a>
+                            <a href="">latest</span> This Just In</a>
+                                                          <a href="">Additional Collections</a>                                                      </div>
+
+                                              </div><!--/.col-sm-2-->
+                                          <div class="col-sm-2 col-xs-5 col-sm-pull-2">
+                                                  <div class="widgets">
+                            <center class="items_list"><div class="items_list_img"><a href="">eBooks &amp; Texts</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                          <div class="col-sm-2 col-xs-7 col-sm-push-2">
+
+                          <div class="linx">
+                            <h5>Top</h5>
+                                                          <a href="">Biodiversity Heritage Library</a>                                                      </div>
+
+
+                                              </div><!--/.col-sm-2-->
+                                          <div class="col-sm-2 col-xs-5 col-sm-pull-4">
+                                                  <div class="widgets">
+                            <center>
+<a href=""/><b>Open Library</b></a></center>
+                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                          <div class="col-sm-2 col-xs-7">
+
+                          <div class="linx">
+                            <h5 class="hidden-xs">&nbsp;</h5>
+                                                          <a href="">Library of the Printed Web</a>                                                      </div>
+
+
+                                              </div><!--/.col-sm-2-->
+
+                  </div><!--/.row-->
+
+                  <div class="row toprow fivecolumns movies">
+
+                                          <div class="col-sm-2 col-xs-7 col-sm-push-4">
+
+                          <div class="linx">
+                            <h5>Featured</h5>
+                            <a href="">movies</span> All Video</a>
+                            <a href="">latest</span> This Just In</a>
+                                                          <a href="">TV NSA Clip Library</a>                                                      </div>
+
+                                              </div><!--/.col-sm-2-->
+                                          <div class="col-sm-2 col-xs-5 col-sm-pull-2">
+                                                  <div class="widgets">
+                            <center class="items_list"><div class="items_list_img"><a href="">TV News</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                          <div class="col-sm-2 col-xs-7 col-sm-push-2">
+
+                          <div class="linx">
+                            <h5>Top</h5>
+                                                          <a href="">Movies</a>                                                      </div>
+
+
+                                              </div><!--/.col-sm-2-->
+                                          <div class="col-sm-2 col-xs-5 col-sm-pull-4">
+                                                  <div class="widgets">
+                            <center class="items_list"><div class="items_list_img"><a href="">Understanding 9/11</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                          <div class="col-sm-2 col-xs-7">
+
+                          <div class="linx">
+                            <h5 class="hidden-xs">&nbsp;</h5>
+                                                          <a href="">Youth Media</a>                                                      </div>
+
+
+                                              </div><!--/.col-sm-2-->
+
+                  </div><!--/.row-->
+
+                  <div class="row toprow fivecolumns audio">
+
+                                          <div class="col-sm-2 col-xs-7 col-sm-push-4">
+
+                          <div class="linx">
+                            <h5>Featured</h5>
+                            <a href="">audio</span> All Audio</a>
+                            <a href="">latest</span> This Just In</a>
+                                                          <a href="">78 RPMs and Cylinder Recordings</a>                                                      </div>
+
+                                              </div><!--/.col-sm-2-->
+                                          <div class="col-sm-2 col-xs-5 col-sm-pull-2">
+                                                  <div class="widgets">
+                            <center class="items_list"><div class="items_list_img"><a href="">Live Music Archive</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                          <div class="col-sm-2 col-xs-7 col-sm-push-2">
+
+                          <div class="linx">
+                            <h5>Top</h5>
+                                                          <a href="">Podcasts</a>                                                      </div>
+
+
+                                              </div><!--/.col-sm-2-->
+                                          <div class="col-sm-2 col-xs-5 col-sm-pull-4">
+                                                  <div class="widgets">
+                            <center class="items_list"><div class="items_list_img"><a href="">Librivox Free Audiobook</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                          <div class="col-sm-2 col-xs-7">
+
+                          <div class="linx">
+                            <h5 class="hidden-xs">&nbsp;</h5>
+                                                          <a href="">Spirituality & Religion</a>                                                      </div>
+
+
+                                              </div><!--/.col-sm-2-->
+
+                  </div><!--/.row-->
+
+                  <div class="row toprow fivecolumns software">
+
+                                          <div class="col-sm-2 col-xs-7 col-sm-push-4">
+
+                          <div class="linx">
+                            <h5>Featured</h5>
+                            <a href="">software</span> All Software</a>
+                            <a href="">latest</span> This Just In</a>
+                                                          <a href="">Software Library</a>                                                      </div>
+
+                                              </div><!--/.col-sm-2-->
+                                          <div class="col-sm-2 col-xs-5 col-sm-pull-2">
+                                                  <div class="widgets">
+                            <center class="items_list"><div class="items_list_img"><a href="">Internet Arcade</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                          <div class="col-sm-2 col-xs-7 col-sm-push-2">
+
+                          <div class="linx">
+                            <h5>Top</h5>
+                                                          <a href="">Vectrex</a>                                                      </div>
+
+
+                                              </div><!--/.col-sm-2-->
+                                          <div class="col-sm-2 col-xs-5 col-sm-pull-4">
+                                                  <div class="widgets">
+                            <center class="items_list"><div class="items_list_img"><a href="">Console Living Room</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                          <div class="col-sm-2 col-xs-7">
+
+                          <div class="linx">
+                            <h5 class="hidden-xs">&nbsp;</h5>
+                                                          <a href="">Apple Computer</a>                                                      </div>
+
+
+                                              </div><!--/.col-sm-2-->
+
+                  </div><!--/.row-->
+
+                  <div class="row toprow fivecolumns image">
+
+                                          <div class="col-sm-2 col-xs-7 col-sm-push-4">
+
+                          <div class="linx">
+                            <h5>Featured</h5>
+                            <a href="">image</span> All Image</a>
+                            <a href="">latest</span> This Just In</a>
+                                                          <a href="">USGS Maps</a>                                                      </div>
+
+                                              </div><!--/.col-sm-2-->
+                                          <div class="col-sm-2 col-xs-5 col-sm-pull-2">
+                                                  <div class="widgets">
+                            <center class="items_list"><div class="items_list_img"><a href="">Metropolitan Museum</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                          <div class="col-sm-2 col-xs-7 col-sm-push-2">
+
+                          <div class="linx">
+                            <h5>Top</h5>
+                                                          <a href="">Ames Research Center</a>                                                      </div>
+
+
+                                              </div><!--/.col-sm-2-->
+                                          <div class="col-sm-2 col-xs-5 col-sm-pull-4">
+                                                  <div class="widgets">
+                            <center class="items_list"><div class="items_list_img"><a href="">Brooklyn Museum</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                          <div class="col-sm-2 col-xs-7">
+
+                          <div class="linx">
+                            <h5 class="hidden-xs">&nbsp;</h5>
+                                                      </div>
+
+
+                                              </div><!--/.col-sm-2-->
+
+                  </div><!--/.row-->
+                                          </div><!--/#nav-tophat-->
+
+
+
+            <div class="navbar navbar-inverse navbar-static-top" role="navigation">
+              <div id="nav-tophat-helper" class="hidden-xs"></div>
+              <ul class="nav navbar-nav">
+                                  <li class="dropdown dropdown-ia pull-left">
+                    <a title="Web" class="navia-link web" data-top-kind="web" href="https://archive.org/web/" data-toggle="tooltip" target="_top" data-placement="bottom"><span class="iconochive-web"  aria-hidden="true"></span><span class="sr-only">web</span></a>
+                  </li>
+                                  <li class="dropdown dropdown-ia pull-left">
+                    <a title="Texts" class="navia-link texts" data-top-kind="texts" href="https://archive.org/details/texts" data-toggle="tooltip" target="_top" data-placement="bottom"><span class="iconochive-texts"  aria-hidden="true"></span><span class="sr-only">texts</span></a>
+                  </li>
+                                  <li class="dropdown dropdown-ia pull-left">
+                    <a title="Video" class="navia-link movies" data-top-kind="movies" href="https://archive.org/details/movies" data-toggle="tooltip" target="_top" data-placement="bottom"><span class="iconochive-movies"  aria-hidden="true"></span><span class="sr-only">movies</span></a>
+                  </li>
+                                  <li class="dropdown dropdown-ia pull-left">
+                    <a title="Audio" class="navia-link audio" data-top-kind="audio" href="https://archive.org/details/audio" data-toggle="tooltip" target="_top" data-placement="bottom"><span class="iconochive-audio"  aria-hidden="true"></span><span class="sr-only">audio</span></a>
+                  </li>
+                                  <li class="dropdown dropdown-ia pull-left">
+                    <a title="Software" class="navia-link software" data-top-kind="software" href="https://archive.org/details/software" data-toggle="tooltip" target="_top" data-placement="bottom"><span class="iconochive-software"  aria-hidden="true"></span><span class="sr-only">software</span></a>
+                  </li>
+                                  <li class="dropdown dropdown-ia pull-left rightmost">
+                    <a title="Image" class="navia-link image" data-top-kind="image" href="https://archive.org/details/image" data-toggle="tooltip" target="_top" data-placement="bottom"><span class="iconochive-image"  aria-hidden="true"></span><span class="sr-only">image</span></a>
+                  </li>
+
+                <li class="navbar-brand-li"><a class="navbar-brand" href="https://archive.org/" target="_top"><span class="iconochive-logo"  aria-hidden="true"></span><span class="sr-only">logo</span></a></li>
+
+                <li class="nav-hamburger dropdown dropdown-ia pull-right hidden-sm hidden-md hidden-lg">
+                  <div class="container-fluid">
+                    <div class="navbar-header">
+                      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#nav-hamburger-menu" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                      </button>
+                      <div class="navbar-collapse collapse" id="nav-hamburger-menu" aria-expanded="false">
+                        <ul class="nav navbar-nav">
+                          <li><a target="_top" href="https://archive.org/about/">ABOUT</a></li>
+                          <li><a target="_top" href="https://archive.org/about/contact.php">CONTACT</a></li>
+                          <li><a target="_top" href="//blog.archive.org">BLOG</a></li>
+                          <li><a target="_top" href="https://archive.org/projects">PROJECTS</a></li>
+                          <li><a target="_top" href="https://archive.org/about/faqs.php">HELP</a></li>
+                          <li><a target="_top" href="https://archive.org/donate">DONATE</a></li>
+                          <li><a target="_top" href="https://archive.org/about/terms.php">TERMS</a></li>
+                          <li><a target="_top" href="https://archive.org/about/jobs.php">JOBS</a></li>
+                          <li><a target="_top" href="https://archive.org/about/volunteerpositions.php">VOLUNTEER</a></li>
+                          <li><a target="_top" href="https://archive.org/about/bios.php">PEOPLE</a></li>
+                        </ul>
+                      </div><!-- /.navbar-collapse -->
+                    </div>
+                  </div><!-- /.container-fluid -->
+                </li>
+
+
+
+
+                                  <li id="nav-search" class="dropdown dropdown-ia pull-right">
+                    <a href="">search</span></a>
+                    <div>
+                      <form method="post" role="search" action="https://archive.org/searchresults.php" target="_top">
+                        <label for="search-bar-2" class="sr-only">Search the Archive</label>
+                        <input id="search-bar-2" placeholder="Search" type="text" name="search" value=""/>
+                        <input type="submit" value="Search"/>
+                      </form>
+                    </div>
+                  </li>
+
+                <li class="dropdown dropdown-ia pull-right">
+                  <a id="glyphme" href="https://archive.org/donate" _target="top" data-toggle="tooltip" data-placement="bottom" title="Donate"><img src="https://archive.org/images/gift.png"></a>
+                  <!--
+                  <a href="">heart</span></a>
+                  -->
+                </li>
+
+
+                <li class="dropdown dropdown-ia pull-right">
+                  <a href="">upload</span></a>
+                </li>
+
+
+                <li class="dropdown dropdown-ia pull-right leftmost">
+                                      <a href="">SIGN IN</span></a>
+                                  </li>
+
+                              </ul>
+            </div><!--/.navbar-->
+
+
+          </div><!--#navwrap1-->
+        </div><!--#navwrap2-->
+
+        <!-- Begin page content -->
+        <div class="container container-ia">
+          <a name="maincontent" id="maincontent"></a>
+
+
+
+<!-- /HEADER -->
+
+
+        <div id="positionHome">
+            <section>
+            <div id="logoHome">
+                <a href=""><h1><span>Internet Archive's Wayback Machine</span></h1></a>
+            </div>
+            </section>
+            <section>
+            <div id="searchHome" style="auto">
+                <form name="form1" method="get" action="/web/form-submit.jsp">
+		    <input type="text" name="url" value="http://stats.wordpress.com/g.gif?host=web.archive.org&amp;rand=0.008201314656994585&amp;blog=4595297&amp;v=ext&amp;post=715&amp;ref=http%3A//web.archive.org/web/20140531035859/http%3A//mybjjblog.com/2009/01/web-services-consulting" size="40" onfocus="javascript:this.focus();this.select();" >
+		    <button type="submit" name="type" value="replay">Latest</button>
+		    <button type="submit" name="type" value="urlquery">Show All</button>
+                </form>
+            </div>
+            </section>
+            <section>
+            <div id="error">
+                <h2>Page cannot be displayed due to robots.txt.</h2>
+                <br/>
+                <p></p>
+
+	<div class="wm-nav-link-div">
+          See <a href="">stats.wordpress.com robots.txt</a> page.
+          <a href="">Learn more</a> about robots.txt.
+
+
+	</div>
+
+
+            </div>
+            </section>
+            <div id="errorBorder"></div>
+
+
+<!-- FOOTER -->
+            <footer>
+            <div id="footerHome">
+                <p>The Wayback Machine is an initiative of the <a href="">archive-it.org</a>.</p>
+                <p>Your use of the Wayback Machine is subject to the Internet Archive's <a href="">Terms of Use</a>.</p>
+            </div>
+            </footer>
+        </div>
+    </body>
+</html>
+<!-- /FOOTER -->
+
